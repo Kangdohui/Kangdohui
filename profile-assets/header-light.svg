@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kang Dohui — Law × Code</title>
+  <desc id="desc">A blue editorial casebook cover with a precise gold rule and a glowing blue index mark.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4F8FC"/><stop offset="1" stop-color="#DCEBFA"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#17365E"/><stop offset="1" stop-color="#3478D4"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6A98C5" stroke-opacity=".14"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#paper)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M760 0h440v320H620z" fill="url(#blue)" opacity=".97"/>
+  <circle cx="965" cy="160" r="120" fill="none" stroke="#A9CDEB" stroke-opacity=".28" stroke-width="1"/>
+  <circle cx="965" cy="160" r="88" fill="none" stroke="#F2C779" stroke-opacity=".88" stroke-width="2"/>
+  <path d="M850 160h230M965 45v230" stroke="#D8E9FA" stroke-opacity=".22"/>
+  <text x="72" y="72" fill="#3478D4" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">FIELD NOTES / 2026</text>
+  <text x="72" y="166" fill="#13243A" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="1">KANG DOHUI</text>
+  <rect x="74" y="193" width="78" height="3" rx="1.5" fill="#C9A45C"/>
+  <text x="72" y="238" fill="#35516F" font-family="Arial,sans-serif" font-size="23" letter-spacing="5">LAW  ×  CODE</text>
+  <text x="1120" y="61" text-anchor="end" fill="#DCEBFA" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">SKALA 04</text>
+  <text x="965" y="169" text-anchor="middle" fill="#F4F8FC" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">INDEX</text>
+  <text x="965" y="193" text-anchor="middle" fill="#F2C779" font-family="Arial,sans-serif" font-size="12" letter-spacing="4">01 — 03</text>
+</svg>
