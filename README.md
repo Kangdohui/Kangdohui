@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-assets/identity-panel.svg" alt="Kang Dohui — ESTJ operating profile, Law × AI × Product" width="100%">
+  <img src="./profile-assets/identity-panel.svg" alt="Kang Dohui — ESTJ and traditional Gyeongjin saju symbols, with preference scores" width="100%">
 </p>
 
 ## FIELDWORK / Selected builds
